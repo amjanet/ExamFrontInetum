@@ -4,5 +4,6 @@ El desarrollo de la prueba Front se realizó con lo siguiente:
 - MAVEN
 - Cucumber
 - TestNG
+- WebElement para buscar localizadores
 
-Se implementó el patrón de diseño POM
+No se implementó el patrón de diseño POM
