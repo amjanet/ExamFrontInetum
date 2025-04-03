@@ -3,4 +3,5 @@ El desarrollo de la pruebas Front se realizó con lo siguiente:
 - Java
 - Cucumber
 - TestNG
+
 Se implementó el patrón de diseño POM
