@@ -1,4 +1,4 @@
-El desarrollo de la pruebas Front se realizó con lo siguiente:
+El desarrollo de la prueba Front se realizó con lo siguiente:
 - Selenium
 - Java
 - Cucumber
